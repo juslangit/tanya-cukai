@@ -1,0 +1,173 @@
+[
+ {
+  "q": "Berapa pelepasan cukai untuk perbelanjaan perubatan ibu bapa tahun 2025?",
+  "lang": "bm",
+  "source": "pelepasan-cukai",
+  "must": "Expenses for parents and grandparents",
+  "answer": "RM8,000 (restricted)"
+ },
+ {
+  "q": "How much is the individual and dependent relatives relief?",
+  "lang": "en",
+  "source": "pelepasan-cukai",
+  "must": "Individual and dependent relatives | 9,000",
+  "answer": "RM9,000"
+ },
+ {
+  "q": "Boleh claim beli laptop dengan phone bawah lifestyle ke?",
+  "lang": "rojak",
+  "source": "pelepasan-cukai",
+  "must": "Purchase of personal computer, smartphone or tablet",
+  "answer": "Yes, under lifestyle relief, not for business use"
+ },
+ {
+  "q": "Relief untuk caj EV charger berapa?",
+  "lang": "rojak",
+  "source": "pelepasan-cukai",
+  "must": "charging facilities for Electric Vehicle",
+  "answer": "RM2,500 (restricted)"
+ },
+ {
+  "q": "Is there tax relief for SSPN savings?",
+  "lang": "en",
+  "source": "pelepasan-cukai",
+  "must": "Skim Simpanan Pendidikan Nasional",
+  "answer": "Net deposit, up to RM8,000"
+ },
+ {
+  "q": "Pelepasan untuk anak bawah 18 tahun berapa seorang?",
+  "lang": "bm",
+  "source": "pelepasan-cukai",
+  "must": "Each unmarried child and under the age of 18",
+  "answer": "RM2,000 each"
+ },
+ {
+  "q": "Bayar SOCSO boleh tolak cukai tak?",
+  "lang": "rojak",
+  "source": "pelepasan-cukai",
+  "must": "Social Security Organization (SOCSO)",
+  "answer": "Yes, up to RM350"
+ },
+ {
+  "q": "Can I claim interest on my first home loan?",
+  "lang": "en",
+  "source": "pelepasan-cukai",
+  "must": "housing loan interest for first home",
+  "answer": "RM7,000 (house up to RM500k) or RM5,000 (RM500k-750k), SPA 2025-2027"
+ },
+ {
+  "q": "Yuran taska anak boleh claim berapa?",
+  "lang": "rojak",
+  "source": "pelepasan-cukai",
+  "must": "Child care fees",
+  "answer": "RM3,000 (restricted)"
+ },
+ {
+  "q": "What is the tax rate on chargeable income between 5,001 and 20,000?",
+  "lang": "en",
+  "source": "kadar-cukai",
+  "must": "5,001 – 20,000",
+  "answer": "1%"
+ },
+ {
+  "q": "Kadar cukai untuk pendapatan bercukai RM50,000",
+  "lang": "bm",
+  "source": "kadar-cukai",
+  "must": "35,001 – 50,000",
+  "answer": "From the YA 2023-2025 table"
+ },
+ {
+  "q": "Bila tarikh akhir hantar e-BE?",
+  "lang": "bm",
+  "source": "lapor-pendapatan",
+  "must": "15th May",
+  "answer": "15 May online; 30 April manual"
+ },
+ {
+  "q": "When must a business owner submit Form B online?",
+  "lang": "en",
+  "source": "lapor-pendapatan",
+  "must": "15th July",
+  "answer": "15 July online; 30 June manual"
+ },
+ {
+  "q": "Kalau lambat bayar cukai kena penalti berapa peratus?",
+  "lang": "bm",
+  "source": "kenaikan-lewat-bayar",
+  "must": "10%",
+  "answer": "10% on the unpaid balance"
+ },
+ {
+  "q": "What is the fine for not submitting a tax return?",
+  "lang": "en",
+  "source": "kesalahan",
+  "must": "200.00 to 20,000.00",
+  "answer": "RM200-RM20,000, up to 6 months jail, or both"
+ },
+ {
+  "q": "Lepas e-filing berapa lama refund masuk?",
+  "lang": "rojak",
+  "source": "cukai-terlebih-bayar",
+  "must": "30 working days",
+  "answer": "Within 30 working days (90 for manual)"
+ },
+ {
+  "q": "How many days in Malaysia do I need to be a tax resident?",
+  "lang": "en",
+  "source": "taraf-mastautin",
+  "must": "one hundred and eighty-two days",
+  "answer": "182 days or more in the basis year"
+ },
+ {
+  "q": "Rebat cukai RM400 untuk siapa?",
+  "lang": "bm",
+  "source": "rebat",
+  "must": "400",
+  "answer": "Resident with chargeable income up to RM35,000"
+ },
+ {
+  "q": "Zakat boleh tolak terus dari cukai ke?",
+  "lang": "rojak",
+  "source": "rebat",
+  "must": "Zakat/Fitrah",
+  "answer": "Yes, as a rebate up to the tax charged"
+ },
+ {
+  "q": "Can I be stopped from leaving Malaysia if I owe tax?",
+  "lang": "en",
+  "source": "sekatan-perjalanan",
+  "must": "Stoppage order",
+  "answer": "Yes, a stoppage order; temporary release needs 50% payment"
+ },
+ {
+  "q": "Macam mana nak pinda borang BE yang dah hantar?",
+  "lang": "bm",
+  "source": "pindaan-taksiran",
+  "must": "Amended",
+  "answer": "e-Amended BE or ARF within 6 months of the deadline"
+ },
+ {
+  "q": "Kod bayaran cukai individu apa?",
+  "lang": "bm",
+  "source": [
+   "kaedah-pembayaran",
+   "soalan-lazim"
+  ],
+  "must": "084",
+  "answer": "084 (instalment/balance), 095 (income tax payment)"
+ },
+ {
+  "q": "Derma ke institusi diluluskan had berapa?",
+  "lang": "rojak",
+  "source": "derma-hadiah",
+  "must": "10% of aggregate income",
+  "answer": "Up to 10% of aggregate income"
+ },
+ {
+  "q": "Do I still need to file if my employer already deducts MTD?",
+  "lang": "en",
+  "source": "soalan-lazim",
+  "must": "MTD",
+  "answer": "Not required if MTD is final tax and conditions met"
+ }
+]

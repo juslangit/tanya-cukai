@@ -1,0 +1,221 @@
+[
+ {
+  "q": "Berapa pelepasan cukai untuk perbelanjaan perubatan ibu bapa tahun 2025?",
+  "lang": "bm",
+  "source": "pelepasan-cukai",
+  "must": "Expenses for parents and grandparents",
+  "answer": "RM8,000 (restricted)",
+  "rank": 1,
+  "model_answer": "Pelepasan cukai untuk perbelanjaan perubatan ibu bapa tahun 2025 ialah RM8,000.  \n- Jumlah ini terhad pada RM8,000 dan meliputi perbelanjaan rawatan perubatan, rawatan pergigian, keperluan khas atau penjagaan untuk ibu bapa [1][2][5].  \n- Perbelanjaan ini hanya boleh diperuntukkan jika keadaan kesihatan dibuktikan oleh praktikan perubatan [1][2].  \n- Had ini berlaku untuk Tahun Taksiran 2025 [1][5]."
+ },
+ {
+  "q": "How much is the individual and dependent relatives relief?",
+  "lang": "en",
+  "source": "pelepasan-cukai",
+  "must": "Individual and dependent relatives | 9,000",
+  "answer": "RM9,000",
+  "rank": 2,
+  "model_answer": "The individual and dependent relatives relief is RM9,000 for each individual in the Year of Assessment 2024 and 2025. [2][3]  \n- This relief applies to the individual and their dependent relatives.  \n- The amount is the same for both Year of Assessment 2024 and 2025.  \n- It is not restricted to specific types of dependents as per the extract. [1][2][3]"
+ },
+ {
+  "q": "Boleh claim beli laptop dengan phone bawah lifestyle ke?",
+  "lang": "rojak",
+  "source": "pelepasan-cukai",
+  "must": "Purchase of personal computer, smartphone or tablet",
+  "answer": "Yes, under lifestyle relief, not for business use",
+  "rank": 2,
+  "model_answer": "Ya, boleh claim pembelian laptop dengan telefon bawah lifestyle jika memenuhi syarat. Limit pelepasan adalah RM2,500 untuk pembelian komputer peribadi, telefon pintar atau tablet yang tidak digunakan untuk kegunaan perniagaan [2][4].  \n\n- Hanya boleh claim jika laptop/telefon tidak digunakan untuk kegunaan perniagaan [2].  \n- Limit pelepasan adalah RM2,500 dan berlaku untuk Tahun Taksiran 2025 [2].  \n- Pelepasan ini hanya untuk kegunaan diri, suami/isteri atau anak [1].  \n\n[2]"
+ },
+ {
+  "q": "Relief untuk caj EV charger berapa?",
+  "lang": "rojak",
+  "source": "pelepasan-cukai",
+  "must": "charging facilities for Electric Vehicle",
+  "answer": "RM2,500 (restricted)",
+  "rank": 1,
+  "model_answer": "Relief untuk caj EV charger ialah RM2,500. [1][2]  \n- Hanya berlaku untuk peralatan pengisian kereta elektrik yang tidak digunakan untuk tujuan perniagaan.  \n- Relief ini dikenakan secara terhad (restricted) dan dikenakan bagi Tahun Taksiran 2024 dan 2025.  \n- Dalam extract [2], relief ini diperluaskan untuk juga peralatan kompos makanan rumah tangga, tetapi hanya untuk tujuan perumahan."
+ },
+ {
+  "q": "Is there tax relief for SSPN savings?",
+  "lang": "en",
+  "source": "pelepasan-cukai",
+  "must": "Skim Simpanan Pendidikan Nasional",
+  "answer": "Net deposit, up to RM8,000",
+  "rank": 1,
+  "model_answer": "Yes, there is tax relief for SSPN savings. The relief amount is RM8,000 per Year of Assessment, but it is restricted [1][3].  \n- The relief applies to the net deposit in SSPN, calculated as total deposits in the year minus total withdrawals in the same year [1][3].  \n- The relief is available for the Year of Assessment 2025 [1][3].  \n- The amount is restricted, meaning it may not be fully claimable depending on specific circumstances [1][3]."
+ },
+ {
+  "q": "Pelepasan untuk anak bawah 18 tahun berapa seorang?",
+  "lang": "bm",
+  "source": "pelepasan-cukai",
+  "must": "Each unmarried child and under the age of 18",
+  "answer": "RM2,000 each",
+  "rank": 2,
+  "model_answer": "Pelepasan untuk setiap anak bawah 18 tahun adalah RM2,000. [2][3][4]  \n- Hanya diberikan kepada anak yang tidak berkahwin.  \n- Anak tersebut harus berusia di bawah 18 tahun.  \n- Jumlah pelepasan ini berlaku untuk Tahun Taksiran 2024 dan 2025. [2][3]"
+ },
+ {
+  "q": "Bayar SOCSO boleh tolak cukai tak?",
+  "lang": "rojak",
+  "source": "pelepasan-cukai",
+  "must": "Social Security Organization (SOCSO)",
+  "answer": "Yes, up to RM350",
+  "rank": 1,
+  "model_answer": "Ya, bayar SOCSO boleh ditolak sebagai pelepasan cukai. Jumlah pelepasan adalah RM350, dan ini terhad kepada tahun taksiran 2024 dan 2025 [1][2].  \n\n- Pelepasan ini hanya boleh digunakan sekali dalam setiap tahun taksiran [1][2].  \n- Ia adalah pelepasan terhad (restricted) dan tidak boleh digunakan lebih dari sekali dalam satu tahun taksiran [1][2].  \n- Pelepasan ini hanya berlaku untuk kontribusi kepada SOCSO, bukan untuk perjalanan umrah atau perjalanan tujuan keagamaan [1][2].  \n\n[1][2]"
+ },
+ {
+  "q": "Can I claim interest on my first home loan?",
+  "lang": "en",
+  "source": "pelepasan-cukai",
+  "must": "housing loan interest for first home",
+  "answer": "RM7,000 (house up to RM500k) or RM5,000 (RM500k-750k), SPA 2025-2027",
+  "rank": 2,
+  "model_answer": "Yes, you can claim interest on your first home loan, up to RM7,000 if the residential property price is up to RM500,000, or up to RM5,000 if the property price exceeds RM500,000 but is within RM750,000. This relief applies only if the sale and purchase agreement is completed between 1 January 2025 and 31 December 2027. [2] The claim is limited to one unit of property. [1]"
+ },
+ {
+  "q": "Yuran taska anak boleh claim berapa?",
+  "lang": "rojak",
+  "source": "pelepasan-cukai",
+  "must": "Child care fees",
+  "answer": "RM3,000 (restricted)",
+  "rank": 2,
+  "model_answer": "Yuran taska anak boleh claim sebanyak RM3,000 untuk kanak-kanak berusia 6 tahun dan di bawah, jika diperlukan di pusat kanak-kanak atau kindergarten yang terdaftar [2][3].  \n\nKes ini hanya berlaku untuk kanak-kanak berusia 6 tahun dan di bawah, dan hanya boleh dikenakan jika bayaran dibayar ke pusat kanak-kanak yang terdaftar [2][3].  \nTidak ada penafian jumlah kanak-kanak yang boleh dilayan, tetapi hanya untuk kanak-kanak yang memenuhi kriteria usia [6].  \nJumlah relief ini dikenakan untuk Tahun Taksiran 2024 dan 2025 [2][3]."
+ },
+ {
+  "q": "What is the tax rate on chargeable income between 5,001 and 20,000?",
+  "lang": "en",
+  "source": "kadar-cukai",
+  "must": "5,001 – 20,000",
+  "answer": "1%",
+  "rank": 1,
+  "model_answer": "The tax rate on chargeable income between RM5,001 and RM20,000 is 1%. [1]  \n- The rate applies only to the portion of income above RM5,000 up to RM20,000.  \n- The first RM5,000 is tax-free.  \n- This rate is applicable for Year of Assessment 2023, 2024, and 2025. [1]"
+ },
+ {
+  "q": "Kadar cukai untuk pendapatan bercukai RM50,000",
+  "lang": "bm",
+  "source": "kadar-cukai",
+  "must": "35,001 – 50,000",
+  "answer": "From the YA 2023-2025 table",
+  "rank": 2,
+  "model_answer": "Kadar cukai untuk pendapatan bercukai RM50,000 adalah 6% bagi bahagian hingga RM35,000 dan 11% bagi bahagian berlebihan dari RM35,000 hingga RM50,000. [2][1]\n\n- Jika pendapatan bercukai RM50,000, bahagian hingga RM35,000 dikenakan kadar 3% (RM105), dan bahagian dari RM35,000 hingga RM50,000 (RM15,000) dikenakan kadar 6% (RM900).  \n- Kadar cukai berdasarkan kategori D (RM35,001 – 50,000) berlaku bagi pendapatan dalam kisaran ini. [2]  \n- Kadar 11% hanya dikenakan pada pendapatan di atas RM70,000, bukan pada RM50,000. [1]  \n\nTahun Taksiran: 2023, 2024 & 2025."
+ },
+ {
+  "q": "Bila tarikh akhir hantar e-BE?",
+  "lang": "bm",
+  "source": "lapor-pendapatan",
+  "must": "15th May",
+  "answer": "15 May online; 30 April manual",
+  "rank": 2,
+  "model_answer": "Tarikh akhir hantar e-BE ialah 15 Mei 2026 [2].  \n\n- Hantar e-BE secara online pada atau sebelum 15 Mei 2026 [2].  \n- Tarikh ini berlaku untuk pendapatan kerja (employment income) [2].  \n- Tarikh ini adalah untuk e-Filing melalui mytax.hasil.gov.my [1]."
+ },
+ {
+  "q": "When must a business owner submit Form B online?",
+  "lang": "en",
+  "source": "lapor-pendapatan",
+  "must": "15th July",
+  "answer": "15 July online; 30 June manual",
+  "rank": 3,
+  "model_answer": "A business owner must submit Form B online on or before 15th July 2025. [3]\n\n- The online deadline for business income (Form B) is 15 July 2025, as per the ITRF deadlines. [3]  \n- Late submission may result in a penalty under subseksyen 112(3) of the ACP 1967. [2]  \n- The submission must be done via e-Billing through https://mytax.hasil.gov.my or via the ByrHASiL portal. [5]"
+ },
+ {
+  "q": "Kalau lambat bayar cukai kena penalti berapa peratus?",
+  "lang": "bm",
+  "source": "kenaikan-lewat-bayar",
+  "must": "10%",
+  "answer": "10% on the unpaid balance",
+  "rank": 1,
+  "model_answer": "Jika lambat bayar cukai, penalti yang dikenakan adalah 10% bagi jumlah cukai yang tidak dibayar selepas 30 April tahun berikutnya [2]. Jika pembayar gagal membayar jumlah cukai dan penalti 10% tersebut dalam tempoh 60 hari dari tarikh penalti, penalti tambahan sebanyak 5% akan dikenakan [2]. Penalti ini berlaku untuk individu yang bukan perniagaan [1]."
+ },
+ {
+  "q": "What is the fine for not submitting a tax return?",
+  "lang": "en",
+  "source": "kesalahan",
+  "must": "200.00 to 20,000.00",
+  "answer": "RM200-RM20,000, up to 6 months jail, or both",
+  "rank": 1,
+  "model_answer": "The fine for not submitting a tax return is RM200.00 to RM20,000.00, along with possible imprisonment for a term not exceeding 6 months, under provisions 112(1) of the Income Tax Act 1967 [1].  \n\nThis penalty applies if the failure to submit is without reasonable excuse.  \nThe amount is not specified by year of assessment in the extract.  \nThe fine is for failure to furnish an Income Tax Return Form, not for late submission. [1]"
+ },
+ {
+  "q": "Lepas e-filing berapa lama refund masuk?",
+  "lang": "rojak",
+  "source": "cukai-terlebih-bayar",
+  "must": "30 working days",
+  "answer": "Within 30 working days (90 for manual)",
+  "rank": 3,
+  "model_answer": "Refund akan diperolehi dalam tempoh 30 hari kerja dari tarikh penyampaian e-Filing. [1][3]\n\n- Hanya berlaku jika borang Pemulihan Penerimaan (ITRF) diserahkan sebelum tarikh had. [5]  \n- Jika penyampaian selepas tarikh had, refund akan diproses selepas dikenakan denda penyerahan terlambat. [5]  \n- Proses refund tergantung pada maklumat dalam borang ITRF dan dokumen sokongan jika diperlukan. [3]"
+ },
+ {
+  "q": "How many days in Malaysia do I need to be a tax resident?",
+  "lang": "en",
+  "source": "taraf-mastautin",
+  "must": "one hundred and eighty-two days",
+  "answer": "182 days or more in the basis year",
+  "rank": 2,
+  "model_answer": "To be a tax resident in Malaysia, you need to be in Malaysia for a period or periods amounting in all to **182 days or more** in a year of assessment [2].  \n\nKey conditions:  \n- If you are in Malaysia for less than 182 days, you may still be considered a resident if your stay is linked to a period of 182 or more consecutive days in the previous or following year of assessment [2].  \n- You must also meet the residency criteria under Section 7 ITA 1967, which includes being in Malaysia for 90 days or more in the basis year, or being resident in Malaysia for three of the four preceding years [1][4].  \n\nThis applies to the **Year of Assessment (Tahun Taksiran)** in question. [2]"
+ },
+ {
+  "q": "Rebat cukai RM400 untuk siapa?",
+  "lang": "bm",
+  "source": "rebat",
+  "must": "400",
+  "answer": "Resident with chargeable income up to RM35,000",
+  "rank": 1,
+  "model_answer": "Rebat cukai RM400 diberikan kepada individu yang berada dalam kategori perbandingan bersama (joint assessment) dengan isteri, jika pendapatan yang dikenakan kurang daripada RM35,000, untuk Tahun Taksiran 2009 dan seterusnya [2][4].\n\nSyarat utama:\n- Pendapatan yang dikenakan kurang daripada RM35,000 [1][2].\n- Kategori perbandingan bersama (joint assessment) [2].\n- Tahun Taksiran 2009 dan seterusnya [2].\n\nCatatan: Rebat RM400 juga diberikan jika salah satu isteri atau suami tidak mempunyai pendapatan [3], tetapi ini adalah keadaan khusus."
+ },
+ {
+  "q": "Zakat boleh tolak terus dari cukai ke?",
+  "lang": "rojak",
+  "source": "rebat",
+  "must": "Zakat/Fitrah",
+  "answer": "Yes, as a rebate up to the tax charged",
+  "rank": 2,
+  "model_answer": "Zakat boleh tolak terus dari cukai ke dalam bentuk rebat, dengan jumlah maksimum yang dibenarkan adalah sebanyak jumlah cukai pendapatan yang dikenakan untuk tahun taksiran tersebut [1][2].\n\n- Rebat untuk zakat dan fitrah hanya dibenarkan secara maksimum sebanyak jumlah cukai pendapatan yang dikenakan untuk tahun taksiran [1][2].\n- Rebat ini hanya diperuntukkan kepada individu yang mempunyai pendapatan bercukai dan memenuhi syarat sebagai penduduk Malaysia [1].\n- Jumlah rebat tidak boleh melebihi dua kali perjalanan seumur hidup untuk perjalanan umrah atau tujuan keagamaan lain [5]."
+ },
+ {
+  "q": "Can I be stopped from leaving Malaysia if I owe tax?",
+  "lang": "en",
+  "source": "sekatan-perjalanan",
+  "must": "Stoppage order",
+  "answer": "Yes, a stoppage order; temporary release needs 50% payment",
+  "rank": 1,
+  "model_answer": "Yes, you can be stopped from leaving Malaysia if you owe tax. [1]\n\nConditions that matter:\n- A stoppage order may be issued if you have outstanding tax liability. [1]\n- You must make a payment of at least 50% of the outstanding tax amount to apply for a temporary release. [1]\n- The application and payment must be submitted at least 5 days before your intended travel date. [1]"
+ },
+ {
+  "q": "Macam mana nak pinda borang BE yang dah hantar?",
+  "lang": "bm",
+  "source": "pindaan-taksiran",
+  "must": "Amended",
+  "answer": "e-Amended BE or ARF within 6 months of the deadline",
+  "rank": 2,
+  "model_answer": "Pinda borang BE yang telah dihantar boleh dilakukan dengan dua cara:  \n1. Melalui platform e-Filing secara online, jika kesalahan berlaku pada atau sebelum tarikh akhir pengemukaan, dan hanya untuk kesalahan seperti pendapatan yang dianggarkan berlebihan atau tuntutan pelepasan yang kurang [2].  \n2. Dengan menulis surat yang menggambarkan kesalahan, dan menyertakan dokumen sokongan seperti receipt atau invoice, lalu menghantar surat dan dokumen tersebut ke pejabat LHDN yang menangani fail cukai anda [4].  \n\nKesalahan yang boleh dikoreksi termasuk:  \n- Pendapatan yang dianggarkan berlebihan  \n- Tuntutan pelepasan atau potongan yang kurang [2]  \n\nPindaan boleh dibuat sebelum tarikh akhir pengemukaan, dan hanya boleh dilakukan melalui cara manual atau e-Filing bergantung pada keadaan [2][4].  \n\n[2][4]"
+ },
+ {
+  "q": "Kod bayaran cukai individu apa?",
+  "lang": "bm",
+  "source": [
+   "kaedah-pembayaran",
+   "soalan-lazim"
+  ],
+  "must": "084",
+  "answer": "084 (instalment/balance), 095 (income tax payment)",
+  "rank": 1,
+  "model_answer": "Kod bayaran cukai individu ialah 084 atau 095 [1].  \n\n- Kod 084 digunakan untuk pembayaran cukai secara instalmen atau sebanyak baki cukai [6].  \n- Kod ini berlaku untuk tahun taksiran tertentu, bergantung pada jenis pembayaran dan keadaan pengguna [1][6].  \n- Kedua-dua kod ini hanya berlaku untuk individu yang membayar secara sendiri (self-assessment) [4]."
+ },
+ {
+  "q": "Derma ke institusi diluluskan had berapa?",
+  "lang": "rojak",
+  "source": "derma-hadiah",
+  "must": "10% of aggregate income",
+  "answer": "Up to 10% of aggregate income",
+  "rank": 1,
+  "model_answer": "Had untuk derma ke institusi diluluskan adalah 10% daripada jumlah pendapatan bersama (aggregate income). [1][4]  \n- Had ini terhad kepada 10% daripada B6 (jumlah pendapatan bersama).  \n- Derma ini hanya boleh dikira sebagai pengurangan daripada pendapatan bersama jika diberikan kepada institusi atau organisasi yang diluluskan.  \n- Had ini berlaku untuk Tahun Taksiran 2025 seperti dalam Borang BE 2025. [4]"
+ },
+ {
+  "q": "Do I still need to file if my employer already deducts MTD?",
+  "lang": "en",
+  "source": "soalan-lazim",
+  "must": "MTD",
+  "answer": "Not required if MTD is final tax and conditions met",
+  "rank": 1,
+  "model_answer": "Yes, you still need to file your Income Tax Return Form (ITRF) if your employer deducts Monthly Tax Deduction (MTD), **provided you are not subject to the MTD as Final Tax** [1].  \n\nKey conditions that matter:  \n- You must have only one source of employment income (including BIK and VOLA) [6].  \n- You must be working with the same employer for at least 12 months in the basis period [2].  \n- You must not have opted for joint assessment with your spouse [2][6].  \n\nThis applies to the Year of Assessment (Tahun Taksiran) 2014 and onwards [2].  \n\n[1][2][6]"
+ }
+]
