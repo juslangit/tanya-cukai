@@ -4,3 +4,4 @@ __pycache__/
 data/
 .playwright-cli/
 .DS_Store
+docs/index.html
